@@ -1,0 +1,19 @@
+.step {
+    border: 1px solid darkred;
+    padding: 30px;
+    left: 0;
+    right: 0;
+    margin: 30px auto;
+}
+
+.step span.value {
+    margin-left: 10px;
+    color: red;
+}
+.plus {
+    background-color: red;
+}
+
+.plus:hover, .plus:focus {
+    background-color: darkred;
+}
